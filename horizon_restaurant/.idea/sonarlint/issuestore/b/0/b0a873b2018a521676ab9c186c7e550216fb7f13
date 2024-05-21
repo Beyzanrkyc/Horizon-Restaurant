@@ -1,0 +1,7 @@
+
+_python:S2208"GImport only needed names or import the module and then use its members.(õÑ²Ý
+_python:S2208"GImport only needed names or import the module and then use its members.(Ž©‚ã
+Mpython:S1481"0Remove the unused local variable "current_user".(ï¨ƒºüÿÿÿÿ
+spython:S4143-"[Verify this is the key that was intended; a value has already been saved for it on line 43.(‡íôÎ
+dpython:S930+"MRemove 2 unexpected arguments; 'begin_delete' expects 1 positional arguments.(¢—Ñ½
+Tpython:S57545"<Specify an exception class to catch or reraise the exception(ˆÊÉ·

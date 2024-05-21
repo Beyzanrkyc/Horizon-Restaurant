@@ -1,0 +1,4 @@
+
+fpython:S2208"GImport only needed names or import the module and then use its members.(õÑ²Ý8Œ¿¦©Ì1
+Gpython:S1481D")Remove the unused local variable "index".(ÁåëE8Œ¿¦©Ì1
+Wpython:S3516X"9Refactor this method to not always return the same value.(¾ÉšG8Œ¿¦©Ì1

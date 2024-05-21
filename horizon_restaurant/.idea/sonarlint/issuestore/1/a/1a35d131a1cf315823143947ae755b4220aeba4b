@@ -1,0 +1,10 @@
+
+_python:S2208"GImport only needed names or import the module and then use its members.(õÑ²Ý
+Jpython:S5806"+Rename this variable; it shadows a builtin.(‰’¿õ8¥Öš¦Î1
+Jpython:S5806*"+Rename this variable; it shadows a builtin.(ï¸“¶8¥Öš¦Î1
+Jpython:S5806D"+Rename this variable; it shadows a builtin.(‰’¿õ8¥Öš¦Î1
+Jpython:S5806Q"+Rename this variable; it shadows a builtin.(ï¸“¶8¥Öš¦Î1
+Jpython:S5806m"+Rename this variable; it shadows a builtin.(‰’¿õ8¥Öš¦Î1
+Jpython:S5806z"+Rename this variable; it shadows a builtin.(ï¸“¶8¥Öš¦Î1
+Kpython:S5806›"+Rename this variable; it shadows a builtin.(‰’¿õ8¥Öš¦Î1
+Kpython:S5806¨"+Rename this variable; it shadows a builtin.(ï¸“¶8¥Öš¦Î1

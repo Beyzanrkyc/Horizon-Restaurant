@@ -1,0 +1,9 @@
+
+fpython:S1192"NDefine a constant instead of duplicating this literal 'restaurantId=' 4 times.(Έ…Θ
+kpython:S1192"NDefine a constant instead of duplicating this literal 'restaurant id' 4 times.(χ­©‰ύÿÿÿÿ
+_python:S2208"GImport only needed names or import the module and then use its members.(ο€Ά
+_python:S2208"GImport only needed names or import the module and then use its members.(υΡ²έ
+ppython:S117 "YRename this local variable "cityName" to match the regular expression ^[_a-z][a-z0-9_]*$.(‡δή§
+ppython:S117"YRename this local variable "tempData" to match the regular expression ^[_a-z][a-z0-9_]*$.(™¨
+ppython:S117H"YRename this local variable "cityName" to match the regular expression ^[_a-z][a-z0-9_]*$.(‡δή§
+ppython:S117@"YRename this local variable "tempData" to match the regular expression ^[_a-z][a-z0-9_]*$.(™¨

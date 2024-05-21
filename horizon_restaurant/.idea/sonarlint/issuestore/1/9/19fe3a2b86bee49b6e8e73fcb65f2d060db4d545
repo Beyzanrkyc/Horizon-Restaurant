@@ -1,0 +1,3 @@
+
+fpython:S2208"GImport only needed names or import the module and then use its members.(õÑ²Ý8£Ìü«Í1
+}python:S117™"YRename this local variable "catInput" to match the regular expression ^[_a-z][a-z0-9_]*$.(÷Ø’¶øÿÿÿÿ8£Ìü«Í1

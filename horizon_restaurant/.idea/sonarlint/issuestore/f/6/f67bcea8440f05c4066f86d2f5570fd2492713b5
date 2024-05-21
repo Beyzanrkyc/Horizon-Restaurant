@@ -1,0 +1,10 @@
+
+fpython:S2208"GImport only needed names or import the module and then use its members.(õÑ²İ8®ÄöØÌ1
+~python:S117"[Rename this local variable "chpDisplay" to match the regular expression ^[_a-z][a-z0-9_]*$.(ì„¶Èşÿÿÿÿ8¯ÄöØÌ1
+{python:S117"XRename this local variable "newPswd" to match the regular expression ^[_a-z][a-z0-9_]*$.(¡·ç¡ıÿÿÿÿ8¯ÄöØÌ1
+wpython:S117"YRename this local variable "newPswd2" to match the regular expression ^[_a-z][a-z0-9_]*$.(—ÀØù8¯ÄöØÌ1
+{python:S117"XRename this local variable "oldPswd" to match the regular expression ^[_a-z][a-z0-9_]*$.(…¬†„øÿÿÿÿ8¯ÄöØÌ1
+Mpython:S1481!")Remove the unused local variable "index".(İ·ÉÚùÿÿÿÿ8¯ÄöØÌ1
+qpython:S117("SRename this parameter "newPswd" to match the regular expression ^[_a-z][a-z0-9_]*$.(³”õ“8¯ÄöØÌ1
+rpython:S117("TRename this parameter "newPswd2" to match the regular expression ^[_a-z][a-z0-9_]*$.(³”õ“8¯ÄöØÌ1
+qpython:S117("SRename this parameter "oldPswd" to match the regular expression ^[_a-z][a-z0-9_]*$.(³”õ“8¯ÄöØÌ1

@@ -1,0 +1,10 @@
+
+_python:S2208"GImport only needed names or import the module and then use its members.(õÑ²İ
+opython:S117"XRename this local variable "menuBar" to match the regular expression ^[_a-z][a-z0-9_]*$.(¶˜í›
+ypython:S101"bRename class "chngPswd" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(æì¶Â
+wpython:S117&"[Rename this local variable "chpDisplay" to match the regular expression ^[_a-z][a-z0-9_]*$.(ì„¶Èşÿÿÿÿ
+tpython:S117$"XRename this local variable "newPswd" to match the regular expression ^[_a-z][a-z0-9_]*$.(¡·ç¡ıÿÿÿÿ
+ppython:S117%"YRename this local variable "newPswd2" to match the regular expression ^[_a-z][a-z0-9_]*$.(—ÀØù
+tpython:S117#"XRename this local variable "oldPswd" to match the regular expression ^[_a-z][a-z0-9_]*$.(…¬†„øÿÿÿÿ
+python:S1017"eRename class "chngPswdGUI" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(“©ÿ¿ûÿÿÿÿ
+opython:S117F"XRename this local variable "chpPage" to match the regular expression ^[_a-z][a-z0-9_]*$.(¯ùª¢
